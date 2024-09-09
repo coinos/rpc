@@ -1,0 +1,5 @@
+{
+  "name": "@coinos/rpc",
+  "module": "index.js",
+  "type": "module"
+}
