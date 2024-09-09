@@ -1,5 +1,6 @@
 {
   "name": "@coinos/rpc",
   "module": "index.js",
-  "type": "module"
+  "type": "module",
+  "version": "0.0.2"
 }
